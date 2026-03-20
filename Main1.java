@@ -1,4 +1,4 @@
-class Main1 {
+class Main3 {
   public static void main(String[] args) {
     int myNum = 5;           
     long myNum3 = 15000000000L;
