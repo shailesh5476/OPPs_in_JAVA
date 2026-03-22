@@ -1,4 +1,4 @@
-public class sk {
+class sk {
     sk(){
         System.out.println("Hello World");
     }
